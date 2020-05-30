@@ -1,0 +1,9 @@
+https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98&productId=100011199522&score=1&sortType=6&page=0&pageSize=10&isShadowSku=0&fold=1
+
+商品id：productId=100011199522
+评论方式：score=0全部  1差评  2中评 3好评 5追评
+排序方式：sortType=5 推荐排序 6时间排序
+页面：page=0
+一页多少评论：pageSize=10
+未知：isShadowSku=0
+未知：fold=1
