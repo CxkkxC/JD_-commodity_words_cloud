@@ -1,5 +1,5 @@
-# JD_-commodity_words_cloud
+# JD_commodity_words_cloud
 
 Crawling Jingdong commodity review as a word cloud
 
-ÅÀÈ¡¾©¶«ÉÌÆ·ÆÀÂÛ×ö´ÊÔÆ
+çˆ¬å–äº¬ä¸œå•†å“è¯„è®ºåšè¯äº‘
